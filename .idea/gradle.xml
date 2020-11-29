@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
             <option value="$PROJECT_DIR$/Problems/Accounts" />
             <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
