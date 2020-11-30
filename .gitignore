@@ -2,4 +2,6 @@
 /.gradle/
 .idea
 *.iml
-*.yaml
+**/*.yaml
+**/out/production/
+**/task/build
